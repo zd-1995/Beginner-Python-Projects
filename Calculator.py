@@ -31,10 +31,19 @@ def Mini_Calculator(first_number,i ,second_number):
         return "Invalid operator"
 
 while True:
-    first_number = enter_numbers()
-    second_number = enter_numbers()
-    entry_operator = input("Enter the operator (+, -, *, /, %, //): ")
-    result = Mini_Calculator(first_number, entry_operator, second_number)
+    #### Basic calculator with separate entry of numbers and operators
+    # first_number = enter_numbers()
+    # second_number = enter_numbers()
+    # entry_operator = input("Enter the operator (+, -, *, /, %, //): ")
+    # result = Mini_Calculator(first_number, entry_operator, second_number)
+    # print("result:", result)
+    # choice = input("\nDo you want to continue? (y/n): ").lower()
+    # if choice != 'y':
+    #     break
+
+    #### Calculator using eval function
+    input_number_operation = input("Enter your calculation: ")
+    result = eval(input_number_operation)
     print("result:", result)
     choice = input("\nDo you want to continue? (y/n): ").lower()
     if choice != 'y':
