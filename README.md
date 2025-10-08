@@ -1,6 +1,13 @@
 # Beginner Python Projects
 
-This repository contains simple Python projects for practice and learning. It includes a **Calculator** , a **Text Analyzer** , a **Number Guessing Game** , a **Rock Paper Scissors** , a **Virtual Dice** , a **Password Generator**project.
+This repository contains simple Python projects for practice and learning. It includes:
+1 - **Calculator**
+2 - **Text Analyzer**
+3 - **Number Guessing Game**
+4 - **Rock Paper Scissors**
+5 - **Virtual Dice**
+6 - **Password Generator**
+7 - **Hangman Game**
 
 ---
 
@@ -47,6 +54,13 @@ This is a simple Python project where the player competes against the computer i
   - Handles invalid input with a warning message
   
 ### 6. `Virtual Dice`
+This file is a **Virtual Dice game**.  
+This is a simple Python project where the player can roll a virtual dice and get a random number between 1 and 6. The game continues until the player decides to stop.
+- Features:  
+  - Random number generation for the dice roll  
+  - Infinite loop to keep the game running until the user quits  
+  - User interaction with "Press Enter to roll"  
+  - Option to continue or stop after each roll  
 
 ### 7. `Password Generator`
 
