@@ -1,6 +1,6 @@
 # Beginner Python Projects
 
-This repository contains simple Python projects for practice and learning. It includes a **Calculator** , a **Text Analyzer** , **Number Guessing Game** , ****project.
+This repository contains simple Python projects for practice and learning. It includes a **Calculator** , a **Text Analyzer** , a **Number Guessing Game** , a **Rock Paper Scissors** , a **Virtual Dice** , a **Password Generator**project.
 
 ---
 
@@ -10,6 +10,7 @@ This repository contains simple Python projects for practice and learning. It in
 This file is a **simple calculator** program.  
 - Supports basic arithmetic operations: addition, subtraction, multiplication, division, modulus, and floor division.  
 - Users can input two numbers and an operator to get the result.
+- In the while loop section, you can execute a state of the calculator by commenting out one of two states. One section can be executed at a time.
 
 ### 2. `Text_analyzer.py`
 This file is a **text analysis tool**.  
@@ -37,3 +38,9 @@ This is a simple Python project where the computer randomly selects a number bet
   - Maximum 10 attempts  
 
 ### 5. `Rock Paper Scissors`
+
+### 6. `Virtual Dice`
+
+### 7. `Password Generator`
+
+### 8. `README.md`
