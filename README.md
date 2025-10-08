@@ -31,16 +31,23 @@ This is a **sample text file** used for testing the `Text_analyzer.py` program.
 ### 4.  `Number Guessing Game`
 This file is a **Number guessing game**. 
 This is a simple Python project where the computer randomly selects a number between 1 and 100, and the player has to guess it.
--Features:
+- Features:
   - Random number generation  
   - User input for guesses  
   - Feedback ("Guess bigger" or "Guess smaller")  
   - Maximum 10 attempts  
 
 ### 5. `Rock Paper Scissors`
-
+This file is a **Rock Paper Scissors game**.  
+This is a simple Python project where the player competes against the computer in the classic **Rock, Paper, Scissors** game.
+- Features:  
+  - Random choice selection by the computer  
+  - User input for selection (`rock`, `paper`, or `scissors`)  
+  - Determines the winner based on game rules  
+  - Handles invalid input with a warning message
+  
 ### 6. `Virtual Dice`
 
 ### 7. `Password Generator`
 
-### 8. `README.md`
+### 8. `Hangman Game`
