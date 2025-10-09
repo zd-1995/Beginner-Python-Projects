@@ -1,12 +1,19 @@
 # Beginner Python Projects
 
 This repository contains simple Python projects for practice and learning. It includes:
+
 1 - **Calculator**
+
 2 - **Text Analyzer**
+
 3 - **Number Guessing Game**
+
 4 - **Rock Paper Scissors**
+
 5 - **Virtual Dice**
+
 6 - **Password Generator**
+
 7 - **Hangman Game**
 
 ---
@@ -72,3 +79,13 @@ It is a simple Python project that creates secure 8-character passwords containi
   - Option to continue generating new passwords  
 
 ### 8. `Hangman Game`
+This file is a **Hangman game** — a classic word-guessing game built using Python.  
+The computer randomly selects a word, and the player must guess it one letter at a time before the hangman drawing is complete.
+- Features:
+  - Random word selection from a predefined list
+  - Step-by-step display of the hangman figure for wrong guesses  
+  - Dynamic word reveal as the user guesses letters correctly  
+  - Win condition when all letters are guessed  
+  - Lose condition after 6 incorrect guesses  
+
+** All code files are executed only by running in the Python environment.
