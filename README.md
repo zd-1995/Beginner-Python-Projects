@@ -63,5 +63,12 @@ This is a simple Python project where the player can roll a virtual dice and get
   - Option to continue or stop after each roll  
 
 ### 7. `Password Generator`
+This file is a **Password Generator**.  
+It is a simple Python project that creates secure 8-character passwords containing lowercase letters, uppercase letters, digits, and special symbols.  
+- Features:
+  - Random password generation  
+  - Ensures inclusion of lowercase, uppercase, digit, and special character  
+  - Uses Python’s `random` module  
+  - Option to continue generating new passwords  
 
 ### 8. `Hangman Game`
