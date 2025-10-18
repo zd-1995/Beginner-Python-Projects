@@ -89,3 +89,8 @@ The computer randomly selects a word, and the player must guess it one letter at
   - Lose condition after 6 incorrect guesses  
 
 ** All code files are executed only by running in the Python environment.
+
+This project was developed and tested with the following versions:
+
+- **Python**: 3.13.5    
+- **re (Regular Expressions)**: 2.2.1
